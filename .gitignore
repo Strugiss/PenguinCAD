@@ -27,3 +27,6 @@ Immagini/Aspetto Splash Screen.jpg
 # Report interni e collaudi (non pubblicare)
 Documenti/
 Test/collaudi/
+
+# Asset di test non referenziati
+Test/*agent*.svg
