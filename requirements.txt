@@ -1,0 +1,21 @@
+# Dipendenze principali
+numpy
+trimesh==5.1.0
+manifold3d
+shapely
+PyQt5
+PyOpenGL
+scipy
+pillow
+networkx
+rtree
+lxml
+fast_simplification
+svg.path==7.1
+
+# opzionali (funzioni cloud/stampa)
+requests
+paho-mqtt
+
+# opzionali (import immagini → 3D)
+scikit-image

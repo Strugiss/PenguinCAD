@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=PenguinCAD
+Comment=CAD 3D per stampa 3D (port Linux di TriviumCAD)
+Exec=penguincad
+Icon=penguincad
+Terminal=false
+Categories=Graphics;Engineering;3DGraphics;
+MimeType=application/x-n47;
